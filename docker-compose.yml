@@ -1,12 +1,11 @@
 version: '3.8'
 
 services:
-  # PHP ve Apache Sunucusu
+  # PHP ve Apache
   php-server:
     image: php:7.4-apache
-    container_name: ionic-backend
+    container_name: ionicupload-backend
     ports:
       - "80:80"
     volumes:
-      # Yerel backend klasörünü konteyner içindeki yapıya bağlar
-      - ./backend:/var/www/html/ionCapImage
+      - ./backend:/var/www/html/imageupload

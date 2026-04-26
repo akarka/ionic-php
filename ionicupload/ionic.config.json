@@ -1,5 +1,5 @@
 {
-  "name": "ionCapImage",
+  "name": "ionicupload",
   "integrations": {
     "capacitor": {}
   },

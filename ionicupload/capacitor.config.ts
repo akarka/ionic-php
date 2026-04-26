@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.kadirAkar.ionCapImage',
-  appName: 'ionCapImage',
+  appId: 'com.kadirAkar.ionicupload',
+  appName: 'ionicupload',
   webDir: 'www'
 };
 
