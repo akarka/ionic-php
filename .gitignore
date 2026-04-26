@@ -1,0 +1,43 @@
+# Dependency directories
+**/node_modules/
+**/bower_components/
+**/vendor/
+
+# Build outputs
+**/www/
+**/dist/
+**/.sourcemaps/
+**/platforms/
+**/plugins/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Capacitor / Cordova
+**/android/
+**/ios/
+**/capacitor.build.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Docker logs
+*.log
+docker-compose.override.yml
+
+# Temporary files
+tmp/
+temp/
+REF/

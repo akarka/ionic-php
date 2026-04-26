@@ -1,0 +1,7 @@
+{
+  "name": "ionCapImage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
