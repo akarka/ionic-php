@@ -1,7 +1,4 @@
-version: '3.8'
-
 services:
-  # PHP ve Apache
   php-server:
     image: php:7.4-apache
     container_name: ionicupload-backend
