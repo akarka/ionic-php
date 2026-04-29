@@ -5,10 +5,13 @@
 
 # KURULUM:
 
-* ionicupload klasöründe:
+ionicupload klasöründe:
 
-npm install
+* npm install
 
-* root klasörde:
+root klasörde:
 
-docker compose up --build
+* docker compose up --build
+
+
+https://github.com/akarka/ionic-php
