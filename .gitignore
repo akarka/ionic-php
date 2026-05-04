@@ -43,4 +43,4 @@ temp/
 REF/
 
 # Storage
-backend/uploads/
+!backend/uploads/.gitkeep
